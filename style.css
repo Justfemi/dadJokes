@@ -60,3 +60,22 @@ h3{
     outline: 0;
 }
 
+.footer {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+.footer__title {
+    font-size: 25px;
+    margin-bottom: 2rem;
+}
+
+.footer__icon {
+    font-size: 1.5rem;
+    color: #fff;
+    margin: 0 1rem;
+    top: 125px;
+}
