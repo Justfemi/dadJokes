@@ -71,6 +71,10 @@ h3{
     margin-bottom: 2rem;
 }
 
+.footer__social {
+    margin: 20px 0;
+}
+
 .footer__icon {
     font-size: 1.5rem;
     color: #fff;
